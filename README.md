@@ -1,6 +1,5 @@
 # low_latency_arbitrage
 
-
 On Linux, type the following command. 
 
 taskset -c 0 python low_latency_arbitrage.py
