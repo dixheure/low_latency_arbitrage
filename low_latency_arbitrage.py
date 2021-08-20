@@ -80,6 +80,7 @@ async def get_ticker(symbol):
 
             await asyncio.sleep(loop_timer_ticker) 
 
+        
 ############################## arbitrage
 async def arbitrage():
 
